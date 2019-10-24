@@ -1,0 +1,14 @@
+.qsys_edit
+greybox_tmp
+DE10_NANO_SoC_GHRD.ipregen.rpt
+DE10_NANO_SoC_GHRD.qws
+DE10_NANO_SoC_GHRD_assignment_defaults.qdf
+db
+incremental_db
+ip_upgrade_port_diff_reports
+output_files
+soc_system.BAK.qsys
+soc_system.rbf
+gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf
+main
+*.o
